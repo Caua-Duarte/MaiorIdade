@@ -1,0 +1,16 @@
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.csprojAssemblyReference.cache
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.AssemblyInfoInputs.cache
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.AssemblyInfo.cs
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\MaiorIdade.exe
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\MaiorIdade.deps.json
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\MaiorIdade.runtimeconfig.json
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\MaiorIdade.runtimeconfig.dev.json
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\MaiorIdade.dll
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\ref\MaiorIdade.dll
+C:\WorkSpace\DotNET\MaiorIdade\bin\Debug\net5.0\MaiorIdade.pdb
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.dll
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\ref\MaiorIdade.dll
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.pdb
+C:\WorkSpace\DotNET\MaiorIdade\obj\Debug\net5.0\MaiorIdade.genruntimeconfig.cache
